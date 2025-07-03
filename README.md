@@ -32,12 +32,12 @@ Developed by **Bathini Manikanta**, a Software Engineering student at Malla Redd
    - Clone the portfolio repository to your local machine:
 
      ```bash
-     git clone https://github.com/FenixDevOps/
+     git clone https://github.com/FenixDevOps/Student-Management-System
      ```
    - Navigate to the repository folder:
 
      ```bash
-     cd portfolio
+     cd Student-Management-System
      ```
 
 2. **Add the Student Management System Script**:
@@ -45,18 +45,10 @@ Developed by **Bathini Manikanta**, a Software Engineering student at Malla Redd
    - Save the Python script as `student_management.py` in a subfolder (e.g., `projects/student_management/`).
    - Suggested directory structure:
 
-     ```
-     portfolio/
-     ├── index.html
-     ├── asset
-     │   ├── images/
-     │   │   └── manigoud_profile1.jpg
-     │   └── resume.pdf (optional)
-     ├── projects/
-     │   ├── student_management/
-     │   │   └── student_management.py
-     ├── README.md
-     ```
+   
+    student_management/
+      └── student_management.py
+    
 
 3. **Verify Python Installation**:
 
